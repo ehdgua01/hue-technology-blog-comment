@@ -1,3 +1,6 @@
 {
-  "origins": ["http://hue-dev.site"]
+  "origins": [
+    "http://hue-dev.site",
+    "https://hue-dev.site"
+  ]
 }
